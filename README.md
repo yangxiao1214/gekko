@@ -1,8 +1,3 @@
 # gekko
-gekko 
-
-
-gefkjklfjdf
-
-dffef
+这是一个git测试
 
